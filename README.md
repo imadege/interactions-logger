@@ -4,7 +4,7 @@
 
 ## Project setup instruction 
 ### Prerequisites 
-- Ensure docker  are running 
+- Ensure docker is running 
 
 ### Setup Instructions
 - Inside the project root, run docker compose `docker-compose up --build .`
